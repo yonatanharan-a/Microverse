@@ -445,6 +445,24 @@
                         "notes":  ""
                     },
                     {
+                        "name":  "Rambutanura sp Thai Red Spiky",
+                        "category":  "Springtails and Slime",
+                        "availability":  "Coming Soon",
+                        "difficulty":  "Intermediate",
+                        "description":  "מין גדול ומרשים, פעיל מאוד ומייצר הרבה עניין. ניזון מפטרירית בלבד.",
+                        "care":  "שמור על סביבה לחה ומאוזנת עם מצע אורגני מתאים. יש להקפיד על גישה למקורות פטרירית וקיום אזור מסתור נוח.",
+                        "images":  [
+
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
                         "name":  "Mystery Rhino",
                         "category":  "Beetles",
                         "availability":  "Coming Soon",
@@ -732,6 +750,42 @@
                         "care":  "",
                         "images":  [
                                        "images/terrarium plants/Sonerila cantonensis/IMG_7906.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Glittermoss",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "זהו שרך מיוחד, נראה ומתנהג כמו טחב. מתפשט יחסית מהר בטרריומים ומייצר מצע דמוי דשא.",
+                        "care":  "מתאים לטרריום לח ועם תאורה בינונית. חשוב לשמור על לחות קבועה ולהימנע מיובש יתר.",
+                        "images":  [
+
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Star Moss",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "טחב כוכבים, מין שמתפשט יחסית מהר, לעיתים מגיע יחד עם טחב נוסף, מעט יותר דק וגבוה. הם משתלבים יפה.",
+                        "care":  "מתאים לטרריום לח עם תאורה מתונה. מומלץ לשמור על לחות יציבה ולספק שטח פתוח להתפשטות.",
+                        "images":  [
+
                                    ],
                         "youtube":  [
 
