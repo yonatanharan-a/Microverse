@@ -2,7 +2,11 @@
     "globalManuals":  [
                           {
                               "label":  "מדריך לטרריום שתול לפרוקי רגליים הדורשים לחות",
-                              "path":  "https://drive.google.com/file/d/1HoUE56KaKmOG7MGJJ4LgPyKA5R8p8VkL/view?usp=drivesdk"
+                              "path":  "manuals/terrarium with inverts.pdf"
+                          },
+                          {
+                              "label":  "מדריך גידול מיליפדות",
+                              "path":  "manuals/millipedes.pdf"
                           }
                       ],
     "globalYoutube":  [
@@ -43,7 +47,7 @@
 
                                     ],
                         "manuals":  [
-                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                       "manuals/millipedes.pdf"
                                     ],
                         "notes":  ""
                     },
@@ -62,7 +66,7 @@
 
                                     ],
                         "manuals":  [
-                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                       "manuals/millipedes.pdf"
                                     ],
                         "notes":  ""
                     },
@@ -81,7 +85,7 @@
 
                                     ],
                         "manuals":  [
-                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                       "manuals/millipedes.pdf"
                                     ],
                         "notes":  ""
                     },
@@ -100,7 +104,7 @@
 
                                     ],
                         "manuals":  [
-                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                       "manuals/millipedes.pdf"
                                     ],
                         "notes":  ""
                     },
@@ -118,7 +122,7 @@
 
                                     ],
                         "manuals":  [
-                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                       "manuals/millipedes.pdf"
                                     ],
                         "notes":  ""
                     },
@@ -138,7 +142,7 @@
 
                                     ],
                         "manuals":  [
-                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                       "manuals/millipedes.pdf"
                                     ],
                         "notes":  ""
                     },
