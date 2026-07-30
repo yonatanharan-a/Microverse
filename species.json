@@ -1,0 +1,796 @@
+{
+    "globalManuals":  [
+                          {
+                              "label":  "מדריך לטרריום שתול לפרוקי רגליים הדורשים לחות",
+                              "path":  "https://drive.google.com/file/d/1HoUE56KaKmOG7MGJJ4LgPyKA5R8p8VkL/view?usp=drivesdk"
+                          }
+                      ],
+    "globalYoutube":  [
+                          {
+                              "label":  "מדריך גידול איזופודים",
+                              "url":  "https://youtu.be/wGweOMf-voM?si=2Joj7cWugO-Zfyit"
+                          }
+                      ],
+    "categories":  [
+                       "Millipedes",
+                       "Isopods",
+                       "Springtails and Slime",
+                       "Beetles",
+                       "Cockroaches",
+                       "Tarantulas",
+                       "Terrarium Plants",
+                       "Substrate"
+                   ],
+    "species":  [
+                    {
+                        "name":  "Atopochetus caudulanus \"Thai Rainbow\"",
+                        "category":  "Millipedes",
+                        "availability":  "Available",
+                        "difficulty":  "Intermediate",
+                        "description":  "רב רגל הקשת התאילנדי - מגיע ל8-10 סמ בבגרות",
+                        "care":  "מצע אורגני מבוסס עלים רקובים ועץ רקוב בתוספת כבול. לא להשתמש בקוקוס! עומק המצע צריך להיות פי 2 מגודל פרט בוגר, עדיף יותר. לוודא שהמצע לח אבל לא רטוב.",
+                        "images":  [
+                                       "images/millipedes/atopochetus caudulanus/IMG_5396.jpg",
+                                       "images/millipedes/atopochetus caudulanus/IMG_1414.jpeg",
+                                       "images/millipedes/atopochetus caudulanus/IMG_5415.jpg",
+                                       "images/millipedes/atopochetus caudulanus/IMG_5428.jpeg",
+                                       "images/millipedes/atopochetus caudulanus/IMG_7068.jpeg",
+                                       "images/millipedes/atopochetus caudulanus/IMG_7534.jpeg",
+                                       "images/millipedes/atopochetus caudulanus/IMG_7753.jpeg",
+                                       "images/millipedes/atopochetus caudulanus/IMG_8926.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Anadenobolus monilicornis \"Bumblebee\"",
+                        "category":  "Millipedes",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "מין אייקוני - מומלץ למתחילים. מגיע ל4-5 סמ",
+                        "care":  "מצע אורגני מבוסס עלים רקובים ועץ רקוב בתוספת כבול. לא להשתמש בקוקוס! עומק המצע צריך להיות פי 2 מגודל פרט בוגר, עדיף יותר. לוודא שהמצע לח אבל לא רטוב. עבור מין זה עדיף שהמצע יהיה מעט יבש יותר מאשר רטוב יותר.",
+                        "images":  [
+                                       "images/millipedes/anadenobolus monilicornis/IMG_2032.jpeg",
+                                       "images/millipedes/anadenobolus monilicornis/IMG_2296.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Desmoxytes purpurosea \"Pink Dragon\"",
+                        "category":  "Millipedes",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "רב רגל הדרקון הוורוד המפורסם עם זיזים דמויי קוצים דרמטיים בגוון ורוד. מין תצוגה עדין אך מרהיב.",
+                        "care":  "מצע אורגני מבוסס עלים רקובים ועץ רקוב בתוספת כבול. לא להשתמש בקוקוס! עומק המצע צריך להיות פי 2 מגודל פרט בוגר, עדיף יותר. לוודא שהמצע לח אבל לא רטוב. עדיף שהמצע יהיה מעט רטוב יותר משאר המינים.",
+                        "images":  [
+                                       "images/millipedes/desmoxytes purpurosea - pink dragon millipede/IMG_1779.jpeg",
+                                       "images/millipedes/desmoxytes purpurosea - pink dragon millipede/IMG_2654.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Spirobolellus immigrans",
+                        "category":  "Millipedes",
+                        "availability":  "Available",
+                        "difficulty":  "Intermediate",
+                        "description":  "מין טרופי עם פס מיוחד, אורך הבוגרים כ3 סמ והם זוהרים באור אולטרה סגול",
+                        "care":  "מצע אורגני מבוסס עלים רקובים ועץ רקוב בתוספת כבול. לא להשתמש בקוקוס! עומק המצע צריך להיות פי 2 מגודל פרט בוגר, עדיף יותר. לוודא שהמצע לח אבל לא רטוב.",
+                        "images":  [
+                                       "images/millipedes/spirobolellus immigrans/IMG_1711.jpeg",
+                                       "images/millipedes/spirobolellus immigrans/IMG_1094.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Brachydesmus nevoi",
+                        "category":  "Millipedes",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "מין מקומי קטן ויפה. צבע כתום שלא ניתן לפספס. אורך הבוגרים 6-8 מ\"מ. פעילים יחסית וניתן לראות אותם מסתובבים",
+                        "care":  "מצע אורגני מבוסס עלים רקובים ועץ רקוב בתוספת כבול. לא להשתמש בקוקוס! עומק המצע צריך להיות פי 2 מגודל פרט בוגר, עדיף יותר. לוודא שהמצע לח אבל לא רטוב.",
+                        "images":  [
+                                       "images/millipedes/Brachydesmus nevoi/IMG_2759.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Millipede sp. \"Tiny\"",
+                        "category":  "Millipedes",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "cleaningCrew":  true,
+                        "description":  "רב רגל זעיר לא מזוהה, מין קטנטן ומעניין המתאים למיקרו-מכלים ולמושבות ניקיון. עדיין בבירור זיהוי מדויק.",
+                        "care":  "ניתן לצרף אותו לכלים/טרריומים אחרים כצוות ניקיון, ואין צורך בתנאים מיוחדים.",
+                        "images":  [
+                                       "images/millipedes/tiny sp/IMG_4633.jpeg",
+                                       "images/millipedes/tiny sp/28e74e09-5c49-4da4-bc62-77fe27c39cf8.JPG"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Trigoniulus corallinus",
+                        "category":  "Millipedes",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "רב רגל החלוד, מין חום-אדמדם מבריק שקל לגדל ולהרבות. מצוין למתחילים.",
+                        "care":  "מצע אורגני מבוסס עלים רקובים ועץ רקוב בתוספת כבול. לא להשתמש בקוקוס! עומק המצע צריך להיות פי 2 מגודל פרט בוגר, עדיף יותר. לוודא שהמצע לח אבל לא רטוב.",
+                        "images":  [
+                                       "images/millipedes/trigoniulus corallinus/IMG_6620.jpeg",
+                                       "images/millipedes/trigoniulus corallinus/IMG_6632.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+                                       "https://drive.google.com/file/d/13OGqvd8PnE-J_GZ-tiVv1h0QF_HlmJsd/view?usp=drivesdk"
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Porcellio magnificus",
+                        "category":  "Isopods",
+                        "availability":  "Available",
+                        "difficulty":  "Intermediate",
+                        "description":  "איזופוד גדול ומרשים המגיע מספרד, בין הגדולים בתחביב. ניתן להבדיל בין זכרים בוגרים לנקבות על פי ה\"זנב\" הגדול והמרשים שיש לזכרים.",
+                        "care":  "צריך לחות נמוכה ואוורור טוב. מצד אחד לחות גבוהה מדי לא טובה לו והוא עלול למות, מצד שני אם הלחות תעלם והכלי יתייבש לגמרי הוא לא יוכל לנשום וימות. אין צורך במצע עמוק, מספיק 3-4 ס\"מ.",
+                        "images":  [
+                                       "images/isopods/Porcellio magnificus/IMG_5766.jpeg",
+                                       "images/isopods/Porcellio magnificus/IMG_6878.jpeg",
+                                       "images/isopods/Porcellio magnificus/IMG_6877.jpeg",
+                                       "images/isopods/Porcellio magnificus/IMG_2432.jpeg"
+                                   ],
+                        "youtube":  [
+                                       "https://youtu.be/wGweOMf-voM?si=2Joj7cWugO-Zfyit"
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Cubaris sp. \"Jupiter\"",
+                        "category":  "Isopods",
+                        "availability":  "Available",
+                        "difficulty":  "Intermediate",
+                        "description":  "ג'ופיטרים - מין נחשק מאוד בעל צבע צהוב עז. חשוב להקפיד איתם על תזונה מגוונת. לרוב מיני קובאריס לא אוכלים צמחים חיים ולכן ניתן ומומלץ לשלב אותם בטרריומים עם צמחייה.",
+                        "care":  "חשוב להקפיד על גרדיינט לחות, צד אחד של הכלי יותר לח מהצד השני וככה לאפשר להם איפה להתמקם. לדאוג למחסות/קליפות עצים שהעם יכול להתחבא. מצע אורגני עשיר, לפחות 5 ס\"מ עומק. לספק מקור סידן. תזונה מגוונת.",
+                        "images":  [
+                                       "images/isopods/cubaris sp. jupiter/IMG_7727.jpeg",
+                                       "images/isopods/cubaris sp. jupiter/IMG_7702.jpeg",
+                                       "images/isopods/cubaris sp. jupiter/IMG_7320.jpeg",
+                                       "images/isopods/cubaris sp. jupiter/IMG_0292.jpeg",
+                                       "images/isopods/cubaris sp. jupiter/IMG_4340.jpg"
+                                   ],
+                        "youtube":  [
+                                       "https://youtu.be/wGweOMf-voM?si=2Joj7cWugO-Zfyit"
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Cubaris sp. \"Shiro Utsuri\"",
+                        "category":  "Isopods",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "featured":  true,
+                        "cleaningCrew":  true,
+                        "description":  "מין מומלץ מאוד למתחילים. לבן עם נקודות שחורות שמפוזרות עליו. לא אוכל צמחייה, יחסית גדול, עמיד, מתאים כצוות ניקויון בטרריום עם פרוקים או בלי. לרוב מיני קובאריס לא אוכלים צמחים חיים ולכן ניתן ומומלץ לשלב אותם בטרריומים עם צמחייה.",
+                        "care":  "חשוב להקפיד על גרדיינט לחות, צד אחד של הכלי יותר לח מהצד השני וככה לאפשר להם איפה להתמקם. לדאוג למחסות/קליפות עצים שהעם יכול להתחבא. מצע אורגני עשיר, לפחות 5 ס\"מ עומק. לספק מקור סידן. תזונה מגוונת.",
+                        "images":  [
+                                       "images/isopods/cubaris sp. shiro utsuri/IMG_4313.jpg",
+                                       "images/isopods/cubaris sp. shiro utsuri/IMG_3483.jpeg",
+                                       "images/isopods/cubaris sp. shiro utsuri/IMG_3896.jpeg"
+                                   ],
+                        "youtube":  [
+                                       "https://youtu.be/wGweOMf-voM?si=2Joj7cWugO-Zfyit"
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Cubaris sp. \"Rubber Ducky\"",
+                        "category":  "Isopods",
+                        "availability":  "Available",
+                        "difficulty":  "Intermediate",
+                        "description":  "מין אייקוני בתחביב - ראבר דאקי - ברווזונים קטנים. זה קו אשר מגיע במיקס של גוונים, החל מאפור כהה לגוף עם ראש צהוב, עובר בגוונים חומים ומגיע לצבע בלונדיני/ורדרד. לרוב מיני קובאריס לא אוכלים צמחים חיים ולכן ניתן ומומלץ לשלב אותם בטרריומים עם צמחייה.",
+                        "care":  "חשוב להקפיד על גרדיינט לחות, צד אחד של הכלי יותר לח מהצד השני וככה לאפשר להם איפה להתמקם. לדאוג למחסות/קליפות עצים שהעם יכול להתחבא. מצע אורגני עשיר, לפחות 5 ס\"מ עומק. לספק מקור סידן. תזונה מגוונת.",
+                        "images":  [
+                                       "images/isopods/Cubaris Sp. Rubber Ducky/IMG_8923.jpeg",
+                                       "images/isopods/Cubaris Sp. Rubber Ducky/IMG_8924.jpeg",
+                                       "images/isopods/Cubaris Sp. Rubber Ducky/IMG_8929.jpeg",
+                                       "images/isopods/Cubaris Sp. Rubber Ducky/IMG_8933.jpeg",
+                                       "images/isopods/Cubaris Sp. Rubber Ducky/IMG_5497.jpeg"
+                                   ],
+                        "youtube":  [
+                                       "https://youtu.be/wGweOMf-voM?si=2Joj7cWugO-Zfyit"
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Cubaris sp. \"Platinum Tung Song\"",
+                        "category":  "Isopods",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "cleaningCrew":  true,
+                        "description":  "מין לא נפוץ בארץ, מרחוק נראים 'אפורים רגילים' אבל כשמסתכלים מקרוב רואים תבנית מיוחדת ומכוונת. מתרבים מהר. גודל בינוני. לרוב מיני קובאריס לא אוכלים צמחים חיים ולכן ניתן ומומלץ לשלב אותם בטרריומים עם צמחייה.",
+                        "care":  "חשוב להקפיד על גרדיינט לחות, צד אחד של הכלי יותר לח מהצד השני וככה לאפשר להם איפה להתמקם. לדאוג למחסות/קליפות עצים שהעם יכול להתחבא. מצע אורגני עשיר, לפחות 5 ס\"מ עומק. לספק מקור סידן. תזונה מגוונת.",
+                        "images":  [
+                                       "images/isopods/cubaris sp. platin tung song/IMG_1764.jpeg",
+                                       "images/isopods/cubaris sp. platin tung song/IMG_9091.jpeg"
+                                   ],
+                        "youtube":  [
+                                       "https://youtu.be/wGweOMf-voM?si=2Joj7cWugO-Zfyit"
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Cubaris sp. \"Lemon Blue\"",
+                        "category":  "Isopods",
+                        "availability":  "Coming Soon",
+                        "difficulty":  "Intermediate",
+                        "description":  "מין נחשק בתחביב. הפס הצהוב שמקיף אותו נותן לו מראה ייחודי מאוד. לרוב מיני קובאריס לא אוכלים צמחים חיים ולכן ניתן ומומלץ לשלב אותם בטרריומים עם צמחייה.",
+                        "care":  "חשוב להקפיד על גרדיינט לחות, צד אחד של הכלי יותר לח מהצד השני וככה לאפשר להם איפה להתמקם. לדאוג למחסות/קליפות עצים שהעם יכול להתחבא. מצע אורגני עשיר, לפחות 5 ס\"מ עומק. לספק מקור סידן. תזונה מגוונת.",
+                        "images":  [
+                                       "images/isopods/Cubaris sp. lemon blue/IMG_5739.jpeg"
+                                   ],
+                        "youtube":  [
+                                       "https://youtu.be/wGweOMf-voM?si=2Joj7cWugO-Zfyit"
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Cubaris sp. \"White Shark\"",
+                        "category":  "Isopods",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "cleaningCrew":  true,
+                        "description":  "מין קטן ובעל צבעים מיוחדים. מתאים במיוחד כתוספת לטרריומים קטנים/בינוניים שם יהיה ניתן לראות אותו פעיל. גם מוצלח כצוות ניקויון. לרוב מיני קובאריס לא אוכלים צמחים חיים ולכן ניתן ומומלץ לשלב אותם בטרריומים עם צמחייה.",
+                        "care":  "חשוב להקפיד על גרדיינט לחות, צד אחד של הכלי יותר לח מהצד השני וככה לאפשר להם איפה להתמקם. לדאוג למחסות/קליפות עצים שהעם יכול להתחבא. מצע אורגני עשיר, לפחות 5 ס\"מ עומק. לספק מקור סידן. תזונה מגוונת.",
+                        "images":  [
+                                       "images/isopods/Cubaris sp. white shark/IMG_6032.jpeg"
+                                   ],
+                        "youtube":  [
+                                       "https://youtu.be/wGweOMf-voM?si=2Joj7cWugO-Zfyit"
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Ceratophysella sp. \"Lilac Yellow Albino\"",
+                        "category":  "Springtails and Slime",
+                        "availability":  "Coming Soon",
+                        "difficulty":  "Beginner",
+                        "cleaningCrew":  true,
+                        "description":  "ספרינגטיילס קטנים וצהובים, מתרבים מהר ובקלות - צוות נקיון מעולה.",
+                        "care":  "ניתן לגדל על מצע גידול אורגני (כבול, עלים, ענפים) או על פחם במים\nלא חובה לשים אוורור לכלי - במקרה הזה חשוב לפתוח את הכלי כל כמה ימים. אני אישית מגדל עם כלים מאווררים ומצע אורגני\nמזון: שמרים יבשים ו/או אורז. ניתן מדי פעם לתת מעט מזון דגים",
+                        "images":  [
+                                       "images/springtails and slime/ceratophysella sp. lilac yellow albino/IMG_7012.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Yuukianura aphoruroides",
+                        "category":  "Springtails and Slime",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "cleaningCrew":  true,
+                        "description":  "מין נפוץ של ספרינגטיילס כתומים, בינוניים בגודלם, לא קופצים, מתרבים יפה, אוהבים לחות גבוהה ומתרבים בקלות.",
+                        "care":  "ניתן לגדל על מצע גידול אורגני (כבול, עלים, ענפים) או על פחם במים\nלא חובה לשים אוורור לכלי - במקרה הזה חשוב לפתוח את הכלי כל כמה ימים. אני אישית מגדל עם כלים מאווררים ומצע אורגני\nמזון: שמרים יבשים ו/או אורז. ניתן מדי פעם לתת מעט מזון דגים",
+                        "images":  [
+                                       "images/springtails and slime/yuukianura aphoruroides/IMG_9228.jpeg",
+                                       "images/springtails and slime/yuukianura aphoruroides/IMG_9301.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Neanura persimilis",
+                        "category":  "Springtails and Slime",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "מין מיוחד הניזון מפטרירית, יחסית גדול, מתרבה לאט יחסית.",
+                        "care":  "ניתן לגדל על מצע גידול אורגני (כבול, עלים, ענפים) או על פחם במים\nלא חובה לשים אוורור לכלי - במקרה הזה חשוב לפתוח את הכלי כל כמה ימים. אני אישית מגדל עם כלים מאווררים ומצע אורגני\nמזון: פטריות - slime",
+                        "images":  [
+                                       "images/springtails and slime/Neanura persimilis/IMG_2978.jpeg",
+                                       "images/springtails and slime/Neanura persimilis/IMG_2976.jpeg",
+                                       "images/springtails and slime/Neanura persimilis/IMG_2967.jpeg",
+                                       "images/springtails and slime/Neanura persimilis/IMG_2979.jpeg",
+                                       "images/springtails and slime/Neanura persimilis/IMG_2986.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Vitronura giselea \"White Rabbit\"",
+                        "category":  "Springtails and Slime",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "מין מיוחד הניזון מפטרירית, מתרבה בקצב בינוני, קל לגידול.",
+                        "care":  "ניתן לגדל על מצע גידול אורגני (כבול, עלים, ענפים) או על פחם במים\nלא חובה לשים אוורור לכלי - במקרה הזה חשוב לפתוח את הכלי כל כמה ימים. אני אישית מגדל עם כלים מאווררים ומצע אורגני\nמזון: פטריות - slime",
+                        "images":  [
+                                       "images/springtails and slime/vitronura giselea white rabbit/IMG_2988.jpeg",
+                                       "images/springtails and slime/vitronura giselea white rabbit/IMG_0588.jpeg",
+                                       "images/springtails and slime/vitronura giselea white rabbit/IMG_2995.jpeg",
+                                       "images/springtails and slime/vitronura giselea white rabbit/IMG_4538.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Entomobryidea sp.",
+                        "category":  "Springtails and Slime",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "cleaningCrew":  true,
+                        "description":  "מין מיוחד בעובדה שהוא לא צריך לחות גבוהה. מצויין כצוות נקיון בטרריום/ויוריום עם לחות בינונית ואף נמוכה - מצויין לפרוקי רגליים וזוחלים.",
+                        "care":  "ניתן לגדל על מצע גידול אורגני (כבול, עלים, ענפים) או על פחם במים\nלא חובה לשים אוורור לכלי - במקרה הזה חשוב לפתוח את הכלי כל כמה ימים. אני אישית מגדל עם כלים מאווררים ומצע אורגני\nמזון: שמרים יבשים ו/או אורז. ניתן מדי פעם לתת מעט מזון דגים",
+                        "images":  [
+                                       "images/springtails and slime/Entomobryidea sp/IMG_1157.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Lobella sp. \"Red Thai\"",
+                        "category":  "Springtails and Slime",
+                        "availability":  "Coming Soon",
+                        "difficulty":  "Beginner",
+                        "cleaningCrew":  true,
+                        "description":  "מין אדום בוהק, מעט גדול יותר מהכתומים, מתרבה לאט.",
+                        "care":  "ניתן לגדל על מצע גידול אורגני (כבול, עלים, ענפים) או על פחם במים\nלא חובה לשים אוורור לכלי - במקרה הזה חשוב לפתוח את הכלי כל כמה ימים. אני אישית מגדל עם כלים מאווררים ומצע אורגני\nמזון: שמרים יבשים ו/או אורז. ניתן מדי פעם לתת מעט מזון דגים",
+                        "images":  [
+                                       "images/springtails and slime/Lobella sp. red thai/red.jpg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Physarum polycephalum \"Daywalker\"",
+                        "category":  "Springtails and Slime",
+                        "availability":  "Available",
+                        "difficulty":  "Beginner",
+                        "description":  "פטרירית ממין נפוץ לגידול ביתי. מתאימה כמזון לספרינגטיילס או סתם בשביל העניין והכיף שבגידול פטרירית.",
+                        "care":  "מתחילים עם קשיון שזו הצורה הרדומה של פטרירית. מכינים קופסת פלסטיק עם מכסה עם אוורור - לא יותר מדי, חור של 2-3 סמ יעשה את העבודה. מומלץ להדביק עליו רשת צפופה נגד ברחשים וחרקים אחרים. מרפדים בנייר סופג 2-3 שכבות. מניחים את הקשיון על הנייר ומניחים 2-3 חתיכות של שיבולת שועל עבה (עדיף לא את הדקה להכנה מהירה). מרטיבים הכל כך שהנייר ספוג אבל אין עודפי מים. מומלץ להניח את חתיכות שיבולת השועל על חתיכות נפרדות של נייר סופג המונחים על הנייר הראשי - זה יעזור בהמשך לשמור על ניקיון. סוגרים ומציצים לראות התפתחות :)\n\nהטיפ הכי חשוב הוא לשמור על היגיינה של הסטאפ - כשהפטרירית מסיימת לאכול שיבולת - להוציא את מה שנשאר. לכן כשמאכילים על חתיכת נייר נוספת אפשר פשוט להוציא אותה ולזרוק. להאכיל כל כמה ימים, וככל שהפטרירית גדלה אפשר לתת יותר שיבולת שועל. לוודא שהנייר הסופג לא מתייבש.\n\nמומלץ כאשר היא גדלה לייצר גיבויים - להוציא חלק מהפטרירית לכלי אחר מאוורר יותר ולהפסיק להרטיב, לתת לה להתייבש בהדרגתיות.",
+                        "images":  [
+                                       "images/springtails and slime/Physarum polycephalum - daywalker/IMG_3441.jpeg",
+                                       "images/springtails and slime/Physarum polycephalum - daywalker/IMG_7319.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Mystery Rhino",
+                        "category":  "Beetles",
+                        "availability":  "Coming Soon",
+                        "difficulty":  "Beginner",
+                        "description":  "חיפושית קרנף מסתורית שתיחשף בקרוב. פרויקט גידול עתידי – פרטים נוספים יעודכנו בהמשך.",
+                        "care":  "דורשת מצע עמוק ומועשר לזחלים, לחות מתאימה וטמפרטורות יציבות. הנחיות טיפול מפורטות יתווספו בהמשך.",
+                        "images":  [
+                                       "images/beetles/IMG_7355.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Mystery Flower",
+                        "category":  "Beetles",
+                        "availability":  "Coming Soon",
+                        "difficulty":  "Beginner",
+                        "description":  "חיפושית פרחים מסתורית שתיחשף בקרוב. פרויקט גידול עתידי – פרטים נוספים יעודכנו בהמשך.",
+                        "care":  "הזחלים גדלים במצע \u0027פלייק סויל\u0027 מועשר, הבוגרים ניזונים מג\u0027לי ופירות. הנחיות טיפול מפורטות יתווספו בהמשך.",
+                        "images":  [
+                                       "images/beetles/IMG_7600.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Pseudoglomeris magnifica \"Emerald\"",
+                        "category":  "Cockroaches",
+                        "availability":  "Coming Soon",
+                        "difficulty":  "Intermediate",
+                        "description":  "תיקן אמרלד - מרהיב ביופיו. יש להם מחזור חיים איטי - כשנה מבקיעה ועד השרצה של הדור הבא. לא קלים לגידול.",
+                        "care":  "כלי גידול מאוורר, הרבה מקומות טיפוס, איזור לח, מספר רב של מחבואים מקליפות עצים. מזון: תפוחים + פולן פרחים + מזון יבש לאיזופודים.",
+                        "images":  [
+                                       "images/cockroaches/pseudoglomaris magnificus/IMG_0575.jpeg",
+                                       "images/cockroaches/pseudoglomaris magnificus/IMG_0157.jpeg",
+                                       "images/cockroaches/pseudoglomaris magnificus/IMG_0258.jpeg",
+									   "images/cockroaches/pseudoglomaris magnificus/IMG_0156.jpeg"
+                                   ],
+                        "youtube":  [
+                                       "https://youtu.be/1Q8d649npSg?feature=shared"
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Caribena versicolor",
+                        "category":  "Tarantulas",
+                        "availability":  "Coming Soon",
+                        "difficulty":  "Beginner",
+                        "description":  "טרנטולת העצים האנטילית – גורים בגוון כחול מתכתי מרהיב שהופכים לירוק, אדום וסגול בבגרות. מין ארבוריאלי יפהפה. בקרוב בקטלוג.",
+                        "care":  "מכל אנכי מאוורר עם לחות בינונית-גבוהה, ענפים ומחבוא מוגבה. חשוב אוורור מצוין למניעת בעיות. הנחיות מפורטות יתווספו בהמשך.",
+                        "images":  [
+                                       "images/tarantulas/carabina versicolor/c versi.jpg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Anoectochilus roxburghii variegated",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Coming Soon",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/Anoectochilus roxburghii variegated/IMG_7515.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Anoectochilus sp.",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Coming Soon",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/Anoectochilus sp/IMG_7514.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Dossinia marmorata",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/dossinia marmorata/IMG_7513.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Labisia sp. 'Kapuas Hulu'",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/Labisia sp kapuas hulu/IMG_8843.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Labisia sp. purple",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/labisia sp purple/IMG_8849.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Macodes petola",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/macodes petola/IMG_7512.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+
+                    {
+                        "name":  "Begonia olivacea",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/begonia olivacea/IMG_7907.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Begonia pteridiformis red form",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/begonia pteridiformis red form/IMG_7905.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Ficus villosa",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/ficus villosa/IMG_7910.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Saxifraga stolonifera 'Yakushima'",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/Saxifraga stolonifera 'yakushima'/IMG_7913.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Selaginella sp. NOID 2",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/selaginella sp NOID 2/IMG_7912.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Selaginella sp. NOID tree",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/selaginella sp NOID tree/IMG_8850.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Sonerila cantonensis",
+                        "category":  "Terrarium Plants",
+                        "availability":  "Available",
+                        "description":  "",
+                        "care":  "",
+                        "images":  [
+                                       "images/terrarium plants/Sonerila cantonensis/IMG_7906.jpeg"
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Flake Soil",
+                        "category":  "Substrate",
+                        "availability":  "Available",
+                        "description":  "מצע \u0027פלייק סויל\u0027 לחיפושיות קרנף – עץ קשה נרקב ומותסס העשיר בחלבון, מושלם לגידול זחלי חיפושיות קרנף. מספק תזונה מעולה לאורך כל שלב הזחל.",
+                        "care":  "השתמשו כמצע עמוק ולח לזחלי חיפושיות קרנף. שמרו על לחות יציבה והימנעו מחימום יתר במהלך התסיסה. מתאים גם כתוסף מזין למצעים אחרים.",
+                        "images":  [
+
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Flower Beetle \u0026 Millipede Substrate",
+                        "category":  "Substrate",
+                        "availability":  "Available",
+                        "description":  "מצע לחיפושיות פרחים ולרבי רגל – תערובת של פלייק סויל, עץ נרקב ומצע יער (מאלץ\u0027). מספק תזונה עשירה ומרקם אוורירי המתאים לזחלי חיפושיות פרחים ולרבי רגל טרופיים.",
+                        "care":  "השתמשו כמצע עמוק ולח. הוסיפו סידן לפי הצורך לגידול רבי רגל. שמרו על לחות יציבה ואוורור טוב.",
+                        "images":  [
+
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    },
+                    {
+                        "name":  "Diluted Flower Beetle \u0026 Millipede Substrate",
+                        "category":  "Substrate",
+                        "availability":  "Available",
+                        "description":  "גרסה מדוללת של מצע חיפושיות הפרחים ורבי הרגל – אותה תערובת מדוללת ביחס 1:1 עם כבול טהור. עשיר פחות ומאוורר יותר, מתאים למינים הזקוקים למצע קל או לערבוב עם מצעים אחרים.",
+                        "care":  "השתמשו כמצע עמוק ולח למינים המעדיפים מצע דל יותר. שמרו על לחות יציבה ואוורור טוב.",
+                        "images":  [
+
+                                   ],
+                        "youtube":  [
+
+                                    ],
+                        "manuals":  [
+
+                                    ],
+                        "notes":  ""
+                    }
+                ]
+}

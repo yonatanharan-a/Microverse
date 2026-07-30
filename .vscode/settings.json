@@ -1,0 +1,32 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "cd": true,
+        "npx --yes serve": true,
+        "Get-Content": true,
+        "ConvertFrom-Json": true,
+        "Where-Object": true,
+        "ConvertTo-Json": true,
+        "Set-Content": true,
+        "Write-Host": true,
+        "Select-String": true,
+        "Select-Object": true,
+        "Measure-Object": true,
+        "Format-List": true,
+        "/^node -e \"\nconst fs = require\\('fs'\\);\nconst raw = fs\\.readFileSync\\('\\./species\\.json', 'utf8'\\);\n// Find first Hebrew text and show its char codes\nconst idx = raw\\.indexOf\\('description'\\) \\+ 16;\nconst sample = raw\\.substring\\(idx, idx\\+10\\);\nconsole\\.log\\('Text:', sample\\);\nconsole\\.log\\('Codes:', \\[\\.\\.\\.sample\\]\\.map\\(c => c\\.charCodeAt\\(0\\)\\.toString\\(16\\)\\)\\.join\\(' '\\)\\);\n\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^node -e \"\nconst fs = require\\('fs'\\);\n\n// Each CP1255 char that appears after U\\+05F3 maps back to its original byte\nconst rev = new Map\\(\\[\n  \\[0x0090, 0x90\\], \\[0x2018, 0x91\\], \\[0x2019, 0x92\\], \\[0x201C, 0x93\\],\n  \\[0x201D, 0x94\\], \\[0x2022, 0x95\\], \\[0x2013, 0x96\\], \\[0x2014, 0x97\\],\n  \\[0x02DC, 0x98\\], \\[0x2122, 0x99\\], \\[0x009A, 0x9A\\], \\[0x203A, 0x9B\\],\n  \\[0x009C, 0x9C\\], \\[0x009D, 0x9D\\], \\[0x009E, 0x9E\\], \\[0x009F, 0x9F\\],\n  \\[0x00A0, 0xA0\\], \\[0x00A1, 0xA1\\], \\[0x00A2, 0xA2\\], \\[0x00A3, 0xA3\\],\n  \\[0x20AA, 0xA4\\], \\[0x00A5, 0xA5\\], \\[0x00A6, 0xA6\\], \\[0x00A7, 0xA7\\],\n  \\[0x00A8, 0xA8\\], \\[0x00A9, 0xA9\\], \\[0x00D7, 0xAA\\],\n\\]\\);\n\nconst GERESH = 0x05F3;\n\nfunction fix\\(str\\) \\{\n  const out = \\[\\];\n  let i = 0;\n  while \\(i < str\\.length\\) \\{\n    const cp = str\\.charCodeAt\\(i\\);\n    if \\(cp === GERESH && i \\+ 1 < str\\.length\\) \\{\n      const b2 = rev\\.get\\(str\\.charCodeAt\\(i \\+ 1\\)\\);\n      if \\(b2 !== undefined\\) \\{\n        const ch = Buffer\\.from\\(\\[0xD7, b2\\]\\)\\.toString\\('utf8'\\);\n        const codePoint = ch\\.codePointAt\\(0\\);\n        if \\(codePoint >= 0x05D0 && codePoint <= 0x05FF\\) \\{\n          out\\.push\\(ch\\); i \\+= 2; continue;\n        \\}\n      \\}\n    \\}\n    out\\.push\\(str\\[i\\]\\); i\\+\\+;\n  \\}\n  return out\\.join\\(''\\);\n\\}\n\nconst raw = fs\\.readFileSync\\('\\./species\\.json', 'utf8'\\);\nconst fixed = fix\\(raw\\);\nconst data = JSON\\.parse\\(fixed\\);\nconsole\\.log\\('Species count:', data\\.species\\.length\\);\ndata\\.species\\.slice\\(0,4\\)\\.forEach\\(s => console\\.log\\(s\\.name, '\\|', s\\.description\\.substring\\(0,60\\)\\)\\);\nfs\\.writeFileSync\\('\\./species\\.json', fixed, 'utf8'\\);\nconsole\\.log\\('Saved!'\\);\n\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd \"c:\\\\Users\\\\dp27260\\\\OneDrive - Elbit Systems 365\\\\yonatan personal\\\\catalog\"; node fix-encoding\\.js$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^node -e \"const d=require\\('\\./species\\.json'\\); d\\.species\\.forEach\\(s=>console\\.log\\(s\\.name,'\\|',s\\.description\\?s\\.description\\.substring\\(0,55\\):''\\)\\)\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
